@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mtrober13
-- 👀 I’m interested in ...
+- 👀 I’m interested in mapping and lidar
 - 🌱 I’m currently learning this ide and blender
 - 💞️ I’m looking to collaborate on 3d modeling with LIDAR for artists
 - 📫 How to reach me ... mtrober@outlook.com
